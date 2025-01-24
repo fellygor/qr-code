@@ -5,3 +5,5 @@ This is Frontend Mentor challenge for building a QR code component that is s rep
 Languages: HTML, CSS
 
 Tools: Google font
+
+Check out the live project here: (https://fellygor.github.io/qr-code/)
